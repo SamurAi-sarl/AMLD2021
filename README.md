@@ -1,6 +1,6 @@
 # No Mercy for the Manual Entry
 
-![alt text](https://github.com/SamurAi-sarl/AMLD2021/blob/main/photo5938208125909841851.jpg?raw=true)
+![alt text](https://github.com/SamurAi-sarl/AMLD2021/blob/main/workshop-image.jpg?raw=true)
 
 Workshop material for Applied Machine Learning Days 2021 Conference:
 
